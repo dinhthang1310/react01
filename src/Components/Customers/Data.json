@@ -1,0 +1,28 @@
+{
+    "customers": [
+        {
+            "id": 1,
+            "name": "Nguyễn Văn A",
+            "email": "A@gmail.com",
+            "status": true
+        },
+        {
+            "id": 2,
+            "name": "Nguyễn Văn B",
+            "email": "B@gmail.com",
+            "status": false
+        },
+        {
+            "id": 3,
+            "name": "Nguyễn Văn C",
+            "email": "C@gmail.com",
+            "status": true
+        },
+        {
+            "id": 4,
+            "name": "Nguyễn Văn D",
+            "email": "D@gmail.com",
+            "status": false
+        }
+    ]
+}
